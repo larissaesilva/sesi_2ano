@@ -1,6 +1,6 @@
 <?php
 $dev="Olá mundo!";
-echo $dev
+echo $dev;
 
 
 ?>
